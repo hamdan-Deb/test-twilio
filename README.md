@@ -49,7 +49,19 @@ test openClaw via win powershell command
 open win powershell and run: ```powershell -c "& ([scriptblock]::Create((irm https://openclaw.ai/install.ps1))) -InstallMethod git"```
 
 ____
-
 ## Ingest
 <img width="1095" height="770" alt="image" src="https://github.com/user-attachments/assets/61510a44-f816-473b-bf7c-2987c2e1063a" />
+
+___
+## UV installation
+<img width="1185" height="627" alt="image" src="https://github.com/user-attachments/assets/b135fd72-6d14-477d-aa88-e1c07ddf7361" />
+
+### For Pipecat.ai
+<img width="1226" height="761" alt="image" src="https://github.com/user-attachments/assets/f9cfc119-63e4-420b-99a5-dc2179a09337" />
+
+giF
+<img width="800" height="411" alt="pipecat_dep_ins" src="https://github.com/user-attachments/assets/29cba51d-c936-479f-a8c7-ed3eecd70f7d" />
+
+__
+## 
 
